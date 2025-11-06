@@ -8,7 +8,7 @@ This project explores how **E-E-A-T** (Experience, Expertise, Authoritativeness,
 ## 📘 Contents  
 - `guide/` – Downloadable PDF and DOCX versions of the **E-E-A-T + SMART Guide**  
 - `article/` – Source text of the related blog article 
-- `README.md` – Documentation and context  
+- `README.md` – Documentation and context
 
 ## ⚙️ Usage  
 Writers, researchers, and creators can freely use or adapt this framework for:  
